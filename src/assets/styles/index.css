@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.avatar-sm {
+    background-image: url('/src/assets/images/profile/avatar-sm.jpeg');
+}
