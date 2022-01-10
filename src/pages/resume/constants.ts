@@ -2,6 +2,13 @@ import type { WorkHistoryInterface, EducationHistoryInterface } from './types';
 
 export const WORK_HISTORY: WorkHistoryInterface[] = [
   {
+    designation: 'Software Engineer 3',
+    company: 'PayPal',
+    location: 'Bangalore',
+    type: 'Full Time',
+    duration: 'January, 2022 - Present',
+  },
+  {
     designation: 'Module Lead',
     company: 'Oostelijke Onderneming, LLP',
     location: 'Pune',
